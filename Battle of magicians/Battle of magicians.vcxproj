@@ -140,6 +140,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Battle of magicians.cpp" />
+    <ClCompile Include="Stories.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MyLib.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
