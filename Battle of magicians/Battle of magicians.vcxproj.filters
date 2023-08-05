@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Battle of magicians.cpp">
+    <ClCompile Include="Battle of magicians.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Stories.cpp">
+    <ClCompile Include="Stories.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
